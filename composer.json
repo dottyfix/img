@@ -1,0 +1,16 @@
+{
+  "name": "dottyfix/img",
+  "description": "Conversion d\'image à la volée",
+  "autoload": {
+    "psr-4": {
+      "Dottyfix\\Tools\\Img\\": "/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "minimum-stability": "stable"
+}
