@@ -1,5 +1,5 @@
 <?php
-namespace Dottyfix\Tools\Img;
+namespace Dottyfix\Img;
 
 class Img {
 	
