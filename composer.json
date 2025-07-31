@@ -3,7 +3,7 @@
   "description": "Conversion d\'image à la volée",
   "autoload": {
     "psr-4": {
-      "Dottyfix\\Tools\\Img\\": "/"
+      "Dottyfix\\Img\\": "/"
     }
   },
   "require-dev": {
